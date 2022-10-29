@@ -1,0 +1,12 @@
+name: HalloweenParkour
+version: 1.0
+api-version: 1.19
+main: me.miqhtie.halloweenparkour.HalloweenParkour
+
+commands:
+  newcheckpoint:
+    description: Create a new checkpoint
+  startgame:
+    description: Start the game
+  stuck:
+    description: Teleport you to last checkpoint
